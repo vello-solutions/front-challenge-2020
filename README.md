@@ -15,8 +15,10 @@ https://www.figma.com/file/YvDHSDvoN1Vu5AMKAKDiz4/Front-end-challenge?node-id=0%
 
 Use of ReactJs or Vue.js frameworks is prefered.
 
-![WineList](WineList.png)
-![WineDetails](WineDetails.png)
+![WineList](images/WineList.png)
+![WineListSM](images/WineListSM.png)
+![WineDetails](images/WineDetails.png)
+![WineDetailsSM](images/WineDetailsSM.png)
 
 You can use dummy data on this step.
 

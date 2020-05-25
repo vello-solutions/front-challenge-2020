@@ -9,7 +9,9 @@ Your missions is to implement design and use provided data:
 
 ## 1) Implement provided design
 
-Implement design with technologies you like.
+Implement the design with technologies you like.
+
+https://www.figma.com/file/YvDHSDvoN1Vu5AMKAKDiz4/Front-end-challenge?node-id=0%3A1
 
 Use of ReactJs or Vue.js frameworks is prefered.
 
